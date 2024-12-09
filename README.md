@@ -3,4 +3,4 @@
 1. `go build .`
 
 **Run using make file**
-1. `make all`
+1. `go run main.go`
